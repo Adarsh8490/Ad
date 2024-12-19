@@ -1,6 +1,4 @@
 hi
-<<<<<<< HEAD
 good morning
 whats up
-=======
->>>>>>> aec18ce (first commit)
+
